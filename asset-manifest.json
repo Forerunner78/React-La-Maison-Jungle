@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-La-Maison-Jungle/static/css/main.1eab4ae3.css",
+    "main.js": "/React-La-Maison-Jungle/static/js/main.24111617.js",
+    "static/js/787.82b65551.chunk.js": "/React-La-Maison-Jungle/static/js/787.82b65551.chunk.js",
+    "static/media/olivier.jpg": "/React-La-Maison-Jungle/static/media/olivier.b2908b40d9fb7f86626b.jpg",
+    "static/media/monstera.jpg": "/React-La-Maison-Jungle/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
+    "static/media/basil.jpg": "/React-La-Maison-Jungle/static/media/basil.be00474e950eb5af0054.jpg",
+    "static/media/cactus.jpg": "/React-La-Maison-Jungle/static/media/cactus.a71c2062a926cb3d5db8.jpg",
+    "static/media/pothos.jpg": "/React-La-Maison-Jungle/static/media/pothos.d72dc0ac2f240d84c9d7.jpg",
+    "static/media/lyrata.jpg": "/React-La-Maison-Jungle/static/media/lyrata.2e915120c952bdb7066c.jpg",
+    "static/media/mint.jpg": "/React-La-Maison-Jungle/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
+    "static/media/calathea.jpg": "/React-La-Maison-Jungle/static/media/calathea.455c33e2bd3e5509c907.jpg",
+    "static/media/succulent.jpg": "/React-La-Maison-Jungle/static/media/succulent.f4329849930298a9e46b.jpg",
+    "static/media/sun.svg": "/React-La-Maison-Jungle/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
+    "static/media/water.svg": "/React-La-Maison-Jungle/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
+    "index.html": "/React-La-Maison-Jungle/index.html",
+    "main.1eab4ae3.css.map": "/React-La-Maison-Jungle/static/css/main.1eab4ae3.css.map",
+    "main.24111617.js.map": "/React-La-Maison-Jungle/static/js/main.24111617.js.map",
+    "787.82b65551.chunk.js.map": "/React-La-Maison-Jungle/static/js/787.82b65551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eab4ae3.css",
+    "static/js/main.24111617.js"
+  ]
+}
